@@ -1,1 +1,1 @@
-echo "Edited!!!!! (V3)"
+print "Edited!!!!! (V3)"
